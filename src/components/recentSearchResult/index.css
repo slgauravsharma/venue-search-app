@@ -1,0 +1,23 @@
+.recent-search-keyword {
+    width: 20%;
+    margin-right: 10px;
+}
+
+.recent-search-keyword-heading {
+    padding-top: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.recent-search-keyword-list-item {
+    margin-bottom: 10px;
+    background: #e9eef1;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.highlight-row {
+    background: #768692;
+    color: #ffffff;
+}

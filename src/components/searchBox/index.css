@@ -1,0 +1,19 @@
+.search-box {
+    text-align: center;
+}
+
+.search-box-input {
+    margin-top: 20px;
+    width: 600px;
+    border-radius: 5px;
+    border: 1px solid #768692;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+    color: #768692;
+}
+
+.search-box-label {
+    margin-right: 20px;
+    font-weight: 700;
+}
